@@ -1,0 +1,10 @@
+windows VM
+username- azureuser
+pw- abcAzureadmin01
+
+db
+dbname- azuredb
+server name- azuredbtest01
+un - azuredbadmin
+pw - azuredb9#
+
